@@ -4,9 +4,9 @@ This is the MVP for the Theory of Knowledge using the Provider library for state
 
 To Do:
 
--Connect to Firebase **currently hardcoded 31 sources**
+-Connect to Firebase //**currently hardcoded 31 sources**
 
--Create iOS interface using the YouTube Library for iOS **iOS Youtube libary behaves differently on wholescreen**
+-Create iOS interface using the YouTube Library for iOS //**iOS Youtube libary behaves differently on wholescreen**
 
 The app can be found here at the Play Store:
 
