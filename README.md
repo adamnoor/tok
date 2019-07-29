@@ -1,16 +1,8 @@
 # tok
 
-A new Flutter application.
+This is the MVP for the Theory of Knowledge using the Provider library for state management.  This is a rewrite to the app pubhslished without using a state management library.
 
-## Getting Started
+The app can be found here at the Play Store:
 
-This project is a starting point for a Flutter application.
+https://play.google.com/store/apps/details?id=com.adaminoor.tok_app
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
